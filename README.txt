@@ -1,1 +1,1 @@
-Sample package for Git assignment 
+ Updated sample package for Git assignment.
